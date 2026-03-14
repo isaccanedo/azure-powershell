@@ -7,7 +7,7 @@ administer, and manage Microsoft Azure resources.
 
 The Az PowerShell module is preinstalled in [Azure Cloud Shell][AzureCloudShell].
 
-## Modules
+# Modules
 
 The following table contains a list of the Azure PowerShell rollup modules.
 
